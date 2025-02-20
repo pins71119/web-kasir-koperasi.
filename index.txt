@@ -1,2 +1,2 @@
 Ini adalah halaman web koperasi
-fitur login di tambahkan.
+fitur login di hapus dan fitur sign up di tambahkan.
